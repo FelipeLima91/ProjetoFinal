@@ -17,25 +17,23 @@ import br.grupo01.springboot01.repository.ContaRepo;
 @CrossOrigin("*")
 @RequestMapping("/conta")
 public class ContaController {
-
+  
     @Autowired
     private ContaRepo repo;
 
     @GetMapping
     public List<Conta> listarTodos() {
-        List<Conta> lista = (List<Conta>) repo.findAll(); // casting
-
-        return lista;
+       return (List<Conta>) repo.findAll();
     }
+@GetMapping("/numero/{numero}")
+public ResponseEntity<Conta> buscarConta(@PathVariable int numero){
+    Conta conta = repo.findById(numero).orElse(null);
 
-    @GetMapping("/codigo/{codigo}")
-    public ResponseEntity<Conta> buscarCliente(@PathVariable int codigo) {
-        // busca um cliente com este codigo, e se não encontrar, preenche com null
-        Conta conta = repo.findById(codigo).orElse(null);
-
-        if(conta != null) { // achou o cliente
-            return ResponseEntity.ok(conta);
-        }
-        return ResponseEntity.notFound().build(); // notFound = status 404, sem conteudo
+    if (conta != null) {
+        return ResponseEntity.ok(conta);
     }
+    return ResponseEntity.notFound().build();
+    }
+    
+
 }
