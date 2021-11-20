@@ -1,0 +1,25 @@
+create database grupo_springboot01;
+
+-- drop database grupo_springboot01;
+use grupo_springboot01;
+
+
+select * from tb_cliente;
+select * from tb_conta;
+
+-- desc tb_cliente; 
+
+-- Criar dados de Cliente (Felipe, Karla, Maycon, Michel e Kelly)
+insert into tb_cliente values (null, "123.123.123-18", "felipaao@gmail.com", "Felipe Lima de Oliveira", "(11)12345-6789");
+insert into tb_cliente values (null, "987.654.321-12", "karla_cracco@hotmail.com", "Karla Rojas Cracco Lima Imperio Dalmati", "(11)9876-6789");
+insert into tb_cliente values (null, "654.987.321-90", "mayconmotamendes@gmail.com", "Maycom Duglas Mendes Mota", "(11)12345-6789");
+insert into tb_cliente values (null, "321.987.654-78", "mwesleyfernandes15071986@yahoo.com.br", "Michel Wesley Lima Fernandes", "(11)12345-6789");
+insert into tb_cliente values (null, "963.852.714-89", "kellymichelesaavedra@yahoo.com.br", "Kelly Michele Torrico Saavedra dos Santos", "(11)12345-6789");
+
+-- Criar dados de Conta (0 - Conta Corrente, 1 - Conta Poupança, 2 - Conta Investimento)
+insert into tb_conta values (null, 12345, 750.00, 0, 1);
+insert into tb_conta values (null, 10058, 1000.00, 1, 2);
+
+
+
+
