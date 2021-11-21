@@ -7,6 +7,6 @@ import br.grupo01.springboot01.model.Cliente;
 
 @Repository
 public interface ClienteRepo extends CrudRepository<Cliente,Integer>{
-
+    public Cliente findByNome(String nome);
     
 }

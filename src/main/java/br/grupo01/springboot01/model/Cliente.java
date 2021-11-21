@@ -81,4 +81,13 @@ public class Cliente {
         this.email = email;
     }
 
+    public List<Conta> getContas() {
+        return contas;
+    }
+
+    public void setContas(List<Conta> contas) {
+        this.contas = contas;
+    }
+
+    
 }
