@@ -2,13 +2,7 @@
 # Programa Itau Tech | Equipe Evolution Tech # 
 <br>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> 587f788e2dcdd8deb12791d3e790cf75ecad740e
-=======
->>>>>>> 587f788e2dcdd8deb12791d3e790cf75ecad740e
 <table> 
 <tr>
   <td align="center">
