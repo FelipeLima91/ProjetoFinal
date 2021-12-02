@@ -2,7 +2,10 @@
 # Programa Itau Tech | Equipe Evolution Tech # 
 <br>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 587f788e2dcdd8deb12791d3e790cf75ecad740e
 <table> 
 <tr>
   <td align="center">
@@ -72,7 +75,6 @@
 <li>Felipe Lima de Oliveira</li>
 <li>Maycom Duglas Mendes Mota</li>
 <li>Michel Wesley Lima Fernandes</li>
-</br>
 </br>
 </br>
 <h4><li>Estamos em um contexto de gerenciamento de clientes e contas bancárias da instituição. Sendo assim, fomos incumbidos a disponibilizar uma API que forneça dados de clientes e contas (inicialmente para consulta).</li></h4>
