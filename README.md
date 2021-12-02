@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Programa Itau Tech | Equipe Evolution Tech # 
 <br>
 
@@ -70,49 +70,13 @@ td, th {
 
 
 
-- [#](#)
-  - [Autor](#autores)
-  - [Descrição](#descrição)
-  - [Objetivo](#objetivo)
-  - [Linguagens aprendidas](#linguagens)
-  - [Ferramentas](#ferramentas)
-
-## Autores
-
-* **Nome:** Karla, Kely, Michel, Felipe, Maycon
-
-## Descrição
-
-Em 6 semanas fizemos uma imersão na linguagens JAVA e C#, e apesar dos desafios, nos sentimos mais preparados e seguros em resolver problemas de lógica de programação. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-## Objetivo
-
-Como equipe desenvolvemos um API que usa as linguagens JAVA e C#................>>>>>>>>>>
-
-## Linguagens aprendidas:
-
-* JAVA
-* C#
-  
-
-## Ferramentas
-
-Visual Studio Code, com Git Bash e GitHub Desktop no Windows 10. 
-Postman
-My SQL Server 
-.NET 
-                          
-=======
-<h1>Projeto Final - ItauTECH</h1>
-
-<h2>Gama Academy</h2>
 </br>
 <h2>Equipe: EvolutionTech</h2>
-<li>Felipe Lima de Oliveira
-<li>Karla Rojas Cracco Lima Imperio Dalmati
-<li>Maycom Duglas Mendes Mota
-<li>Michel Wesley Lima Fernandes
-<li>Kelly Michele Torrico Saavedra dos Santos
+<li>Karla Rojas Cracco Lima Imperio Dalmati</li>  
+<li>Kelly Michele Torrico Saavedra dos Santos</li>
+<li>Felipe Lima de Oliveira</li>
+<li>Maycom Duglas Mendes Mota</li>
+<li>Michel Wesley Lima Fernandes</li>
 </br>
 </br>
 </br>
@@ -133,7 +97,7 @@ My SQL Server
 <h4><li>Banco de Dados: MySQL.</li></h4>
 <h4><li>API: Spring BOOT.</li></h4>
 </br>
-<h3>Modelagem de dados.</h3>
+<h3> Modelagem de dados.  </h3>
 <h4>Dados do cliente:</h4>
 <h4><li>código Interno</li></h4>
 <h4><li>nome</li></h4>
@@ -147,9 +111,10 @@ My SQL Server
 <h4><li>saldo</li></h4>
 <h4><li>titular da conta</li></h4>
 </br>
-</br>
 
-
-
-
->>>>>>> 775867c6ad58a581f80e6b7105c5d6b23fa88183
+<h3>Ferramentas:</h3>
+<h4><li>Visual Studio Code com Git Bash e GitHub Desktop no Windows 10</li></h4>
+<h4><li>My SQL Server </li></h4>
+<h4><li>Postman</li></h4>
+<h4><li>.NET (C#)</li></h4>
+<h4><li>JAVA</li></h4>
