@@ -4,7 +4,7 @@
 
 <header>
         <div class="logo">
-            <img src="img/logo.png" width=70%>
+            <img src="img/logo.png" width = 70% padding-left= 3000px>
         </div>
     </header>
 
