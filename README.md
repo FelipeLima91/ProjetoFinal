@@ -2,11 +2,6 @@
 # Programa Itau Tech | Equipe Evolution Tech # 
 <br>
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 <table> 
 <tr>
@@ -27,7 +22,7 @@ td, th {
   </td>
   <td align="center">
 
-  <img height="128px" src="img/Maycon.jpeg">
+  <img height="128px" src="img/mmm.jpg">
   
   </td>
   <td align="center">
@@ -57,12 +52,12 @@ td, th {
   </td>
   <td align="center">
   
-  [Maycon](Maycon)
+  [Maycon](https://www.linkedin.com/in/maycon-mota-pcd-3150191aa/)
   
   </td>
   <td align="center">
   
-  [Michel](Michel)
+  [Michel](https://www.linkedin.com/in/michel-fernandes-pcd-64853014a/)
   
   </td>
 </tr>
