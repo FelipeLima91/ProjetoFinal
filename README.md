@@ -2,7 +2,7 @@
 <br>
 
 <header align="center">
-    <div class="logo">
+    <div class="logo" align="center">
         <img src="img/logo.png" width = 70% padding-left= 3000px>
     </div>
 </header>
