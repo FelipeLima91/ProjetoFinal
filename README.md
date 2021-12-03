@@ -2,9 +2,14 @@
 # Programa Itau Tech | Equipe Evolution Tech # 
 <br>
 
+
+<body>
+
+
+  
 <header>
         <div class="logo">
-            <img src="img/logo.png" width = 70% padding-left= 3000px>
+            <img src="img/logofundo1.png" width = 70%>
         </div>
     </header>
 
@@ -117,3 +122,5 @@
 <h4><li>Postman - O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Isso é feito, permitindo aos usuários criar e salvar solicitações HTTP e HTTPs simples e complexas, bem como ler suas respostas. - https://www.postman.com/downloads/</li></h4>
 <h4><li>GIT - É um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas. - https://git-scm.com/downloads</li></h4>
 <h4><li>JAVA - O Java é uma tecnologia usada para desenvolver aplicações que tornam a Web mais divertida e útil. O Java não é a mesma coisa que o javascript., que é uma tecnologia simples usada para criar páginas Web e só é executado no seu browser. - https://download.oracle.com/java/17/archive/jdk-17.0.1_windows-x64_bin.exe</li></h4>
+
+</body>
